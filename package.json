@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-mtaa-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mtaa A simple REST API to access Tanzania's location information,With mtaa API you can easily query and integrate all the location in tanzania from region level to streets from your programming lan..",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-mtaa-api",
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "mtaa-api"

@@ -8,7 +8,7 @@ import type {
 export class MtaaApiApi implements ICredentialType {
 	name = 'N8nDevMtaaApiApi';
 
-	displayName = 'mtaa-api API';
+	displayName = 'Mtaa API';
 
 	icon: Icon = { light: 'file:../nodes/MtaaApi/mtaa-api.svg', dark: 'file:../nodes/MtaaApi/mtaa-api.dark.svg' };
 
@@ -22,7 +22,7 @@ export class MtaaApiApi implements ICredentialType {
 			default: 'https://mtaa-api.herokuapp.com/api',
 			required: true,
 			placeholder: 'https://mtaa-api.herokuapp.com/api',
-			description: 'The base URL of your mtaa-api API server',
+			description: 'The base URL of your Mtaa API server',
 		},
 		{
 			displayName: 'API Key',

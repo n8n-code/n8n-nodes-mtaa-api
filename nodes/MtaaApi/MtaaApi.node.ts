@@ -7,14 +7,14 @@ import { neighborhoodInAStreetDescription } from './resources/neighborhood-in-a-
 
 export class MtaaApi implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'mtaa-api',
+		displayName: 'Mtaa API',
 		name: 'N8nDevMtaaApi',
 		icon: { light: 'file:./mtaa-api.svg', dark: 'file:./mtaa-api.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Mtaa A simple REST API to access Tanzania\'s location information,With mtaa API you can easily query and integrate all the location in tanzania from region level to streets from your programming lan..',
-		defaults: { name: 'mtaa-api' },
+		defaults: { name: 'Mtaa API' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

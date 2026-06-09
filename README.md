@@ -53,13 +53,40 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Tanzania Regions | Get returns all regions present in tanzania |
-| Districts In Region | Get returns all districts in region |
-| Wards In A District | Get returns all wards in a district |
-| Streets In A Ward | Get returns all streets in a ward |
-| Neighborhood In A Street | Get returns all neighborhood in a street |
+<details>
+<summary><b>Tanzania Regions</b> (1 operations)</summary>
+
+- Get Returns all regions present in Tanzania
+
+</details>
+
+<details>
+<summary><b>Districts In Region</b> (1 operations)</summary>
+
+- Get Returns all districts in region
+
+</details>
+
+<details>
+<summary><b>Wards In A District</b> (1 operations)</summary>
+
+- Get Returns all wards in a district
+
+</details>
+
+<details>
+<summary><b>Streets In A Ward</b> (1 operations)</summary>
+
+- Get Returns all streets in a ward
+
+</details>
+
+<details>
+<summary><b>Neighborhood In A Street</b> (1 operations)</summary>
+
+- Get Returns all neighborhood in a street
+
+</details>
 
 ---
 
